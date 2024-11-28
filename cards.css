@@ -1,0 +1,8 @@
+#cardgirl,#cardtree,#card2,#card4{
+   height:350px;
+   width:300px;
+}
+#cardgirl img,#cardtree img,#card2 img,#card4 img{
+width:100%;
+height:70%;
+}
